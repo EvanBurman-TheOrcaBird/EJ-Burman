@@ -2,7 +2,7 @@
 - 👀 I’m interested in GameDev, Audio Design, and Music Composition. 
 - 🌱 I’m currently learning WWISE, for integrating audio and music into games running on Unity.
 - 💞️ I’m looking to collaborate on small indie games, passion projects, or anything that looks weird or interesting.
-- 📫 You can reach me through email or courier pidgeon.
+- 📫 You can reach me through E-Mail or carrier pigeon.
 
                                                        embur27@gmail.com
                                                                               
